@@ -1,0 +1,8 @@
+requests
+icecream
+loguru
+bs4
+lxml
+urllib3
+fake-useragent
+attrdict3
